@@ -1,3 +1,19 @@
 {
-    "todos" : []
+  "todos": [
+    {
+      "id": 1,
+      "name": "Excercise",
+      "complete": false
+    },
+    {
+      "message": "Onkanya",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "name": "Onkanya",
+      "complete": false,
+      "id": 3
+    }
+  ]
 }
